@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"concurrentcube","l":"Colour"},{"p":"concurrentcube","l":"Cube"},{"p":"concurrentcube","l":"CubeMonitor"},{"p":"concurrentcube","l":"CubeSide"}]
