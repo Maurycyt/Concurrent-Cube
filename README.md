@@ -20,4 +20,4 @@ The only requirement regarding the order of operations performed on the cube is 
 The concurrentcube package was also required to contain JUnit 5 tests testing the Cube class thoroughly, including its correctness, concurrent safety and concurrent liveness and how it reacted to interrupts.
   
 ### The documentation
-No documentation was required.
+No documentation was required. But I provided one anyway. Except for the tests.
